@@ -18,6 +18,6 @@ printf("Vida: %d\n\n", vida);
 printf("Tesouro; %d\n", tesouro);
 printf("Ativando tesouro: \n");
 *pTesouro = 1;
-printf("Tesouro; %d\n", tesouro);
+printf("Tesouro %d\n", tesouro);
 return 0;
 }
